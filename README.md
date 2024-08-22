@@ -10,8 +10,8 @@ User Management
 
 Product Management
 
-    Create, Update, Delete Products: Admins can manage products by creating new ones, 
-    updating existing ones, and deleting those no longer needed.
+    Create, Update, Delete Products: Admins can manage products by creating new ones, updating existing ones, 
+    and deleting those no longer needed.
     Product Categories: Products are organized into categories, allowing customers to 
     browse products by category.
     Product Search: Customers can search for products within a specific price range 
