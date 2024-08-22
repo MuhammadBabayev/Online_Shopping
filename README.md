@@ -12,14 +12,12 @@ Product Management
 
     Create, Update, Delete Products: Admins can manage products by creating new ones, updating existing ones, 
     and deleting those no longer needed.
-    Product Categories: Products are organized into categories, allowing customers to 
-    browse products by category.
-    Product Search: Customers can search for products within a specific price range 
-    or by category.
-    Product Rating: Each product can be rated by customers on a scale of 1 to 5. 
-    The average rating is displayed when viewing the product.
-    Product Comments: Customers can leave comments on products, and these comments are 
-    visible to others when viewing the product.
+    Product Categories: Products are organized into categories, allowing customers to browse products by category.
+    Product Search: Customers can search for products within a specific price range or by category.
+    Product Rating: Each product can be rated by customers on a scale of 1 to 5. The average rating is 
+    displayed when viewing the product.
+    Product Comments: Customers can leave comments on products, and these comments are visible to others 
+    when viewing the product.
 
 Basket Management
 
