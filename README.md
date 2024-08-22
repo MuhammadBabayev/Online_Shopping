@@ -21,15 +21,13 @@ Product Management
 
 Basket Management
 
-    Customer Basket: Each customer has a basket where they can add products they 
-    wish to purchase. The system checks the available quantity of products before 
-    adding them to the basket.
+    Customer Basket: Each customer has a basket where they can add products they wish to purchase. The system 
+    checks the available quantity of products before adding them to the basket.
 
 Order Management
 
     Placing Orders: Customers can place orders for the items in their basket.
-    Order History: Customers can view all their orders and filter them based 
-    on a specific date range.
+    Order History: Customers can view all their orders and filter them based on a specific date range.
     Order Status: Each order has a status that tracks its progress.
 
 Coupon Management
